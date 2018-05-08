@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-ChrisBertasi-executor",
+    "name": "workshop-ws-5-8-aws-ChrisBertasi",
+    "region": "us-east-2"
+  }
+}
